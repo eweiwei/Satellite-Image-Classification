@@ -1,2 +1,4 @@
 # Satellite-Image-Classification
 Using Neural Networks to achieve >90% accurate classifier that classifies different classes of land use and applying it to different instances of deforestation around the world to garner insights about our changing globe.
+
+I have used the EuroSAT TensorFlow dataset for this project. It consists of 27000 labeled images of satellite images from the Sentinel 2 satellites orbiting Earth, which belong to 10 different classes of land use. Using TensorFlow tools, I constructed a model that accurately classifies these images and then applied the classifier on a timelapse of San Julian and the Gobi Desert, two wildly different instances of deforestation. Using classifications that span throughout time, we can look more closely at the truth behind the forces that drive the shrinking of our forests.
